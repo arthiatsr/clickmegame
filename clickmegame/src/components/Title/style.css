@@ -1,0 +1,16 @@
+.title {
+  width: 100%; 
+  font-size: 2rem;
+  text-decoration: underline;
+  color: red;
+  margin-bottom: 10px; 
+}
+
+.title {
+  float: left;
+}
+
+.scores {
+  color: blue;
+  float: left;
+}
